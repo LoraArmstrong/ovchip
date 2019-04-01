@@ -1,0 +1,7 @@
+discount_name,peak_discount,off_peak_discount,weekend_discount,holiday_discount,monthly_price_per_month,yearly_price_per_month
+Altijd Voordeel,0.2,0.4,0.4,0.4,28,23
+Altijd Vrij,1,1,1,1,728,583
+Dal Voordeel,0,0.4,0.4,0.4,N/A,4.33333333333333
+Weekend Vrij,0,0.4,1,1,N/A,40
+Dal Vrij,0,1,1,1,N/A,133
+None,0,0,0,0,0,0
